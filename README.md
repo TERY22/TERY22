@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TERY
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning React & Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me icemonkey336@gmail.com
 
